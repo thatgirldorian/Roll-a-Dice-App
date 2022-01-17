@@ -32,6 +32,28 @@ img {
   width: 80%;
 }
 
+#play-btn {
+  background-color: #121212;
+  color: white;
+  padding: 14px 10px 14px 10px;
+  border-radius: 20px;
+  border: 1px solid #121212;
+  margin-right: 120px;
+  margin-top: 50px;
+  cursor: pointer;
+}
+
+#refresh-btn {
+  background-color: white;
+  color: #121212;
+  padding: 14px 20px 14px 20px;
+  border-radius: 20px;
+  border: 1px solid #121212;
+  margin-right: 20px;
+  margin-top: 50px;
+  cursor: pointer;
+}
+
 footer {
   margin-top: 5%;
   color: #121212;
