@@ -6,9 +6,9 @@ This is an app that lets you roll a dice to make decisions. I added two buttons:
 
 <h3>Issues and solutions faced:</h3>
 
-At first, I struggled with how to randomise these images but I was able to put them am in an array and using a function
+- At first, I struggled with how to randomise these images but I was able to put them am in an array and using a function
 
-ALso, usimg indexOf to make one part greater than the other
+- ALso, usimg indexOf to make one part greater than the other
 
 
 
