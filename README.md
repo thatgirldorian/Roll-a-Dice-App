@@ -6,15 +6,9 @@ This is an app that lets you roll a dice to make decisions. I added two buttons:
 
 <h3>Issues and solutions faced:</h3>
 
-- At first, I struggled with how to randomise these images but I was able to put them am in an array and using a function
+- At first, I struggled with how to randomise the images but I was able to put them am in an array and used a function alongside some Math methods to pick them out randomly.
 
-- ALso, usimg indexOf to make one part greater than the other
-
-
-
-
-
-
+- Also, I did not know how to tell when one image was greater than the other. So, I created a variable for each set image a any given time, got their index and thrn used this in an if statment. 
 
 
 <h3>Technology Used:</h3>
