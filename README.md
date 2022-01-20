@@ -20,4 +20,5 @@ This is an app that lets you roll a dice to make decisions. I added two buttons:
 
 
 <h3>Screenshot:</h3>
+<img width="1532" alt="Screenshot 2022-01-20 at 10 40 26 PM" src="https://user-images.githubusercontent.com/40691059/150418732-07777f2f-5435-4332-a7ac-a085bfc18d38.png">
 
