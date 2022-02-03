@@ -4,7 +4,7 @@
  <h3>Function & Description:</h3>
 This is an app that lets you roll a dice to make decisions. I added two buttons: one for randomising each outcome and another for refreshing the page + reloading the window. This second button refreshes the page.
 
-<h3>Issues and solutions faced:</h3>
+<h3>Issues solutions faced and solutions:</h3>
 
 - At first, I struggled with how to randomise the images but I was able to put them in an array and used a function alongside some Math methods to pick them out randomly.
 
